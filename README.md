@@ -1,5 +1,3 @@
-# powerbi
-
 # 📊 Power BI Dashboard Project
 
 Interactive data analytics dashboard built using **Microsoft Power BI** to extract insights, track KPIs and support data-driven decision making.
